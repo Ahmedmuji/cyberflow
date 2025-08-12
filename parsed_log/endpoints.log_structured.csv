@@ -1,8 +1,0 @@
-LineId,Date,Time,MilliSeconds,Level,Component,Content,EventId,EventTemplate,ParameterList
-1,2023-07-31,13:00:01,101,INFO,org.apache.hadoop.hdfs.server.datanode.DataNode,STARTUP_MSG:,b1bf6bd0,STARTUP_MSG:,[]
-2,2023-07-31,13:00:01,102,INFO,org.apache.hadoop.hdfs.server.datanode.DataNode,Registered with NameNode,2cab8945,Registered with NameNode,[]
-3,2023-07-31,13:00:02,203,INFO,org.apache.hadoop.hdfs.server.datanode.DataNode,Receiving block blk_123456 from /192.168.0.1,df22994e,Receiving block blk_123456 from /192.168.0.1,[]
-4,2023-07-31,13:00:03,204,WARN,org.apache.hadoop.hdfs.server.datanode.DataNode,Block blk_123456 already exists,79c68890,Block blk_123456 already exists,[]
-5,2023-07-31,13:00:04,205,INFO,org.apache.hadoop.hdfs.server.datanode.DataNode,Releasing block blk_123456,ef9ee82c,Releasing block blk_123456,[]
-6,2023-07-31,13:00:05,206,ERROR,org.apache.hadoop.hdfs.server.datanode.DataNode,Failed to read block blk_654321,8ed41dec,Failed to read block blk_654321,[]
-7,2023-07-31,13:00:06,207,INFO,org.apache.hadoop.hdfs.server.datanode.DataNode,Deleted block blk_123456,72ca4b59,Deleted block blk_123456,[]
