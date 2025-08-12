@@ -1,0 +1,8 @@
+EventId,EventTemplate,Occurrences
+b1bf6bd0,STARTUP_MSG:,1
+2cab8945,Registered with NameNode,1
+df22994e,Receiving block blk_123456 from /192.168.0.1,1
+79c68890,Block blk_123456 already exists,1
+ef9ee82c,Releasing block blk_123456,1
+8ed41dec,Failed to read block blk_654321,1
+72ca4b59,Deleted block blk_123456,1
