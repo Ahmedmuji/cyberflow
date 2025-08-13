@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Security Log Analyzer Backend
 Professional threat detection with MITRE ATT&CK integration
